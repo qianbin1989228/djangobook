@@ -1,7 +1,7 @@
 # 《Python Web开发从入门到实战（Django+Bootstrap）》
 
 <div align='center'>
-  <img src='./docs/book.jpg'width='200' height='266'/>
+  <img src='./docs/book.jpg'width='200' height='220'/>
 </div>
 
 ## 🔥 最新动态
